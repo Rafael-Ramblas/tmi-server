@@ -1,0 +1,22 @@
+{
+  "name": "tmi-server",
+  "version": "0.0.1",
+  "description": "A node server with React to consume tmi twitch interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafael-Ramblas/tmi-server.git"
+  },
+  "author": "Rafael-Ramblas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rafael-Ramblas/tmi-server/issues"
+  },
+  "homepage": "https://github.com/Rafael-Ramblas/tmi-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
